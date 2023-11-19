@@ -1,0 +1,13 @@
+table{
+    border : 10px solid rgb(145, 155, 234);
+    border-collapse: collapse;
+    
+
+}
+th{
+    border : 10px solid rgb(197, 142, 205);
+}
+td{
+    border : 10px solid rgb(156, 234, 181);
+
+}

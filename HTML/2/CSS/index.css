@@ -1,0 +1,52 @@
+header{
+    background-color: chartreuse;
+    min-height: 20vh;
+    width: 100%;
+}
+
+
+nav{
+    background-color: chocolate;
+    min-height: 30vh;
+    width: 15%;
+}
+
+article{
+    background-color: blue;
+    min-height: 75vh;
+}
+
+
+
+aside{
+    background-color: crimson;
+    min-height: 30vh;
+    width: 20%;
+}
+
+
+footer{
+    background-color: chartreuse;
+    min-height: 20px;
+    width: 100%
+}
+
+body{
+    display: flex;
+}
+
+*{
+    margin:0px
+}
+
+div div{
+    display: flex;
+}
+
+div div div{
+    display: block;
+}
+
+div{
+    width: 100%;
+}

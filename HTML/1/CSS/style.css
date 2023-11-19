@@ -1,0 +1,42 @@
+/*
+Commentaire
+*/
+/* 
+selecteur{
+    propriete: valeur;
+    propriete: valeur;
+    propriete: valeur;
+    propriete: valeur;
+    propriete: valeur;
+}
+
+*/
+
+body{
+    background-color: rgb(201, 218, 246);
+    background-image: url(../HTML/Images/Rayan\ lpb.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 80px;
+}
+p{
+    color: rgb(27, 27, 46);
+}
+
+#oui{/*# : qd c'est un nom*/
+    color: rgb(81, 84, 117);
+}
+.multiple{
+    color: blueviolet;
+}
+img{
+    width: 1000px;
+}
+
+span{
+    color: rgb(184, 46, 11);
+}

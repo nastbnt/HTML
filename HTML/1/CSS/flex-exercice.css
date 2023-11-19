@@ -1,0 +1,49 @@
+header{
+    background-color: blue;
+    min-height: 70px;
+}
+nav{
+    background-color: brown;
+    min-height: 20px;
+}
+
+main{
+    display: flex ;
+    flex-wrap: wrap;
+}
+
+
+#A{
+    background-color: coral;
+    min-height: 400px;
+    width: 50%;
+
+}
+
+#B{
+    background-color: darkorchid;
+    min-height: 400px;
+    width: 50%;
+}
+
+#C{
+    background-color: deeppink;
+    min-height: 400px;
+    width: 50%;
+}
+
+#D{
+    background-color: gold;
+    min-height: 400px;
+    width: 50%;
+}
+
+
+
+footer{
+    background-color: chartreuse;
+    min-height: 50px;
+}
+
+
+
